@@ -1,4 +1,3 @@
-import { nanoid } from 'nanoid';
 import styles from './ContactList.module.css';
 import PropTypes from 'prop-types';
 
